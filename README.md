@@ -1,5 +1,7 @@
 # TerraTorch Learning Lab
 
+[Open the interactive lab website](https://kachingasilwimba.com/terratorch-learning-lab/)
+
 Follow two satellite observations from six reflectance bands to Prithvi-EO patch embeddings. The lab uses the IBM–NASA **Prithvi-EO 2.0 Tiny-TL** encoder through TerraTorch. Start with a synthetic scene, then repeat the workflow on a public Harmonized Landsat Sentinel-2 (HLS) image pair from Mexico.
 
 ## Set up
