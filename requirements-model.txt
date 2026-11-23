@@ -1,0 +1,5 @@
+-r requirements.txt
+torch==2.8.0
+torchvision==0.23.0
+terratorch==1.2.14
+rasterio>=1.4,<2
